@@ -1,0 +1,14 @@
+/Users/ganiberkaltiok/Desktop/c#/banka/bin/Debug/net8.0/banka
+/Users/ganiberkaltiok/Desktop/c#/banka/bin/Debug/net8.0/banka.deps.json
+/Users/ganiberkaltiok/Desktop/c#/banka/bin/Debug/net8.0/banka.runtimeconfig.json
+/Users/ganiberkaltiok/Desktop/c#/banka/bin/Debug/net8.0/banka.dll
+/Users/ganiberkaltiok/Desktop/c#/banka/bin/Debug/net8.0/banka.pdb
+/Users/ganiberkaltiok/Desktop/c#/banka/obj/Debug/net8.0/banka.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ganiberkaltiok/Desktop/c#/banka/obj/Debug/net8.0/banka.AssemblyInfoInputs.cache
+/Users/ganiberkaltiok/Desktop/c#/banka/obj/Debug/net8.0/banka.AssemblyInfo.cs
+/Users/ganiberkaltiok/Desktop/c#/banka/obj/Debug/net8.0/banka.csproj.CoreCompileInputs.cache
+/Users/ganiberkaltiok/Desktop/c#/banka/obj/Debug/net8.0/banka.dll
+/Users/ganiberkaltiok/Desktop/c#/banka/obj/Debug/net8.0/refint/banka.dll
+/Users/ganiberkaltiok/Desktop/c#/banka/obj/Debug/net8.0/banka.pdb
+/Users/ganiberkaltiok/Desktop/c#/banka/obj/Debug/net8.0/banka.genruntimeconfig.cache
+/Users/ganiberkaltiok/Desktop/c#/banka/obj/Debug/net8.0/ref/banka.dll
