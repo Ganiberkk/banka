@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ganiberkaltiok/Desktop/c#/banka/banka.csproj": {}
+    "/Users/ganiberkaltiok/Desktop/github/banka/banka/banka.csproj": {}
   },
   "projects": {
-    "/Users/ganiberkaltiok/Desktop/c#/banka/banka.csproj": {
+    "/Users/ganiberkaltiok/Desktop/github/banka/banka/banka.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ganiberkaltiok/Desktop/c#/banka/banka.csproj",
+        "projectUniqueName": "/Users/ganiberkaltiok/Desktop/github/banka/banka/banka.csproj",
         "projectName": "banka",
-        "projectPath": "/Users/ganiberkaltiok/Desktop/c#/banka/banka.csproj",
+        "projectPath": "/Users/ganiberkaltiok/Desktop/github/banka/banka/banka.csproj",
         "packagesPath": "/Users/ganiberkaltiok/.nuget/packages/",
-        "outputPath": "/Users/ganiberkaltiok/Desktop/c#/banka/obj/",
+        "outputPath": "/Users/ganiberkaltiok/Desktop/github/banka/banka/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ganiberkaltiok/.nuget/NuGet/NuGet.Config"
